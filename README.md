@@ -44,4 +44,4 @@ Run the script by following these steps:
 
 For issues and inquiries, contact your system administrator or consult the [nmcli documentation](https://developer.gnome.org/NetworkManager/stable/nmcli.html).
 
-```
+
